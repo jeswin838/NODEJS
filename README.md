@@ -1,4 +1,4 @@
-                                                                                     BloomBlog - A Full Stack Blogging Platform
+                                                BloomBlog - A Full Stack Blogging Platform
 
 Project Title and Description:
 BloomBlog is a secure and functional Full-Stack Blogging Platform designed to provide authors with a simple environment to create, share, and inspire. It is built as a production-ready Minimal Viable Product (MVP) using a robust Node.js and MongoDB backend.
